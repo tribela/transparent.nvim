@@ -9,13 +9,14 @@ If your are vim (Not neovim) user, Use [vim-transparent][] instead.
 
 # Screenshots
 
-Without transparent.nvim (example color scheme is [eva01][])
+With transparent.nvim (example color scheme is [eva01][])
 
-![eva01 without transparent](https://github.com/tribela/vim-transparent/assets/5047683/09e18e7f-7a01-4b3b-a11a-021d53a36fe7)
+![eva01 theme with transparent.nvim](https://github.com/tribela/transparent.nvim/assets/5047683/d02f95f8-a0ba-4d95-8343-4a202d660681)
 
-With vim-transparent
 
-![eva01 with transparent](https://github.com/tribela/vim-transparent/assets/5047683/b72cb2ba-60b9-4348-84d3-f91c35cffe3c)
+Without vim-transparent
+
+![eva01 theme without transparent.nvim](https://github.com/tribela/transparent.nvim/assets/5047683/01609fbb-acd2-4bff-b697-afbe90482f2e)
 
 
 [eva01]: https://github.com/hachy/eva01.vim
